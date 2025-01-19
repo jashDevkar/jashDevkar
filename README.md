@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jashdevkar" alt="jashdevkar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/jash devkar" target="blank"><img src="https://img.shields.io/twitter/follow/jash devkar?logo=twitter&style=for-the-badge" alt="jash devkar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/devkarjash" target="blank"><img src="https://img.shields.io/twitter/follow/devkarjash?logo=twitter&style=for-the-badge" alt="devkarjash" /></a> </p>
 
 - 🔭 I’m currently working on **Blog app**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jash devkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jash devkar" height="30" width="40" /></a>
+<a href="https://twitter.com/devkarjash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devkarjash" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
